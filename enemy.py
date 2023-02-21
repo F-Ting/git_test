@@ -4,3 +4,5 @@ class enemy:
 
     def func1(self):
         pass
+    def daniel(self):
+        pass
