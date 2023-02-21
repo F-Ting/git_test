@@ -7,3 +7,6 @@ class player:
     
     def new_func(self):
         pass
+
+    def my_ba_hen(self):
+        pass
