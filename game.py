@@ -4,3 +4,6 @@ class game:
 
     def func1(self):
         pass
+    
+    def LGTM(self):
+        pass
